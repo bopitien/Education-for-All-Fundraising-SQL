@@ -18,4 +18,13 @@ to present insights from the donation data to inform
 your fundraising strategy and increase donations.
 
 
-![dashboard1](https://github.com/bopitien/Legacies-Group-HR-Analytics-SQL/blob/main/dashboard2.PNG)
+## Dashboard
+
+![dashboard1](https://github.com/bopitien/Education-for-All-Fundraising-SQL/blob/main/Donor%20data%20dashboard.JPG)
+
+
+## Schema
+
+![dashboard1](https://github.com/bopitien/Education-for-All-Fundraising-SQL/blob/main/donor%20data%20schema.JPG)
+
+
