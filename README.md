@@ -16,3 +16,6 @@ In two weeks your team is having a fundraising
 strategy meeting for the following year, and you need 
 to present insights from the donation data to inform 
 your fundraising strategy and increase donations.
+
+
+![dashboard1](https://github.com/bopitien/Legacies-Group-HR-Analytics-SQL/blob/main/dashboard2.PNG)
